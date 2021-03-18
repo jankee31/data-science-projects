@@ -1,4 +1,4 @@
-#updated solution of the casestudy 
+#final solution of the casestudy 
 
 import numpy as np
 np.random.seed(123)
