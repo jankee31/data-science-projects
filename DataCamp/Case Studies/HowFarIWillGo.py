@@ -1,4 +1,4 @@
-#final solution of the casestudy 
+#5 of casestudy 
 
 import numpy as np
 np.random.seed(123)
@@ -21,3 +21,12 @@ for x in range(100) :
     random_walk.append(step)
 
 print(random_walk)
+
+# Imporrting matplotlib for visualizing walk
+import matplotlib.pyplot as plt
+
+# Plot random_walk
+plt.plot(random_walk)
+
+# Show the plot
+plt.show()
