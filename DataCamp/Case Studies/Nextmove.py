@@ -1,3 +1,4 @@
+# 4 of case study
 import numpy as np
 np.random.seed(123)
 
