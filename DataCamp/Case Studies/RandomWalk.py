@@ -1,3 +1,5 @@
+# 3 of case study
+
 import numpy as np
 np.ramdom.seed(123)
 
