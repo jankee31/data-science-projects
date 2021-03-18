@@ -1,4 +1,5 @@
-# Import numpy and set seed
+# 1 of case study
+#Import numpy and set seed
 import numpy as np
 np.random.seed(123)
 
