@@ -1,4 +1,4 @@
-
+# 2 of case study
 #Randomness has many uses in art, science, statistics, cryptography, gaming, gambling and other fields. 
 #Here using the randomness to simulate a game. 
 
